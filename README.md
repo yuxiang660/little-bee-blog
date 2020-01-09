@@ -1,6 +1,6 @@
 <h1 align="center">
-    <img alt="Lumen" title="Lumen" src="https://github.com/alxshelepenok/gatsby-starter-lumen/blob/gatsby-v2/.github/logo.png" width="140"> </br>
-    Lumen
+    <img alt="LittleBee" title="Lumen" src="https://github.com/yuxiang660/little-bee-blog/blob/master/.github/logo.svg" width="140"> </br>
+    Little Bee
 </h1>
 
 <h4 align="center">
