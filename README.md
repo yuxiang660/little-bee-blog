@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="LittleBee" title="Lumen" src="https://github.com/yuxiang660/little-bee-blog/blob/master/.github/logo.svg" width="140"> </br>
+    <img alt="LittleBee" title="Lumen" src="https://github.com/yuxiang660/little-bee-blog/blob/master/.github/logo.jpg" width="140"> </br>
     Little Bee
 </h1>
 
