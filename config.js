@@ -2,7 +2,7 @@
 
 module.exports = {
   url: 'https://little-bee-blog.netlify.com',
-  pathPrefix: '/',
+  pathPrefix: '/little-bee-blog',
   title: 'Blog by Yuxiang Wang',
   subtitle: 'Little Bee Blog',
   copyright: '© All rights reserved.',
