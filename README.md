@@ -9,11 +9,3 @@
 <h4 align="center">
   作者 -- “搬砖蜜蜂”
 </h4>
-
-<center>
-![Logo](/.github/logo2.jpg)
-</center>
-
-<div align=center>![Logo](/.github/logo2.jpg)</div>
-
-![Logo](/.github/logo2.jpg)
