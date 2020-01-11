@@ -100,6 +100,15 @@
   Link: </little-bee-blog/styles-615b4a9959d98b442aa7.js>; rel=preload; as=script
   Link: </little-bee-blog/commons-a17142a90373c74c2b04.js>; rel=preload; as=script
   Link: </little-bee-blog/component---src-templates-page-template-js-88e8d9e81ab1514097c0.js>; rel=preload; as=script
+/little-bee-blog/posts/a-brief-history-of-typography
+  Link: </little-bee-blog/webpack-runtime-72cb7e5557f61a0c88f1.js>; rel=preload; as=script
+  Link: </little-bee-blog/styles-615b4a9959d98b442aa7.js>; rel=preload; as=script
+  Link: </little-bee-blog/commons-a17142a90373c74c2b04.js>; rel=preload; as=script
+  Link: </little-bee-blog/netlify-identity-widget-ade4db83c70a1991ad07.js>; rel=preload; as=script
+  Link: </little-bee-blog/app-0ce2b0bbd2b9b4655d62.js>; rel=preload; as=script
+  Link: </little-bee-blog/styles-615b4a9959d98b442aa7.js>; rel=preload; as=script
+  Link: </little-bee-blog/commons-a17142a90373c74c2b04.js>; rel=preload; as=script
+  Link: </little-bee-blog/component---src-templates-post-template-js-b88a6ccf5c84ed381d35.js>; rel=preload; as=script
 /little-bee-blog/posts/perfecting-the-art-of-perfection
   Link: </little-bee-blog/webpack-runtime-72cb7e5557f61a0c88f1.js>; rel=preload; as=script
   Link: </little-bee-blog/styles-615b4a9959d98b442aa7.js>; rel=preload; as=script
@@ -110,15 +119,6 @@
   Link: </little-bee-blog/commons-a17142a90373c74c2b04.js>; rel=preload; as=script
   Link: </little-bee-blog/component---src-templates-post-template-js-b88a6ccf5c84ed381d35.js>; rel=preload; as=script
 /little-bee-blog/posts/the-origins-of-social-stationery-lettering
-  Link: </little-bee-blog/webpack-runtime-72cb7e5557f61a0c88f1.js>; rel=preload; as=script
-  Link: </little-bee-blog/styles-615b4a9959d98b442aa7.js>; rel=preload; as=script
-  Link: </little-bee-blog/commons-a17142a90373c74c2b04.js>; rel=preload; as=script
-  Link: </little-bee-blog/netlify-identity-widget-ade4db83c70a1991ad07.js>; rel=preload; as=script
-  Link: </little-bee-blog/app-0ce2b0bbd2b9b4655d62.js>; rel=preload; as=script
-  Link: </little-bee-blog/styles-615b4a9959d98b442aa7.js>; rel=preload; as=script
-  Link: </little-bee-blog/commons-a17142a90373c74c2b04.js>; rel=preload; as=script
-  Link: </little-bee-blog/component---src-templates-post-template-js-b88a6ccf5c84ed381d35.js>; rel=preload; as=script
-/little-bee-blog/posts/a-brief-history-of-typography
   Link: </little-bee-blog/webpack-runtime-72cb7e5557f61a0c88f1.js>; rel=preload; as=script
   Link: </little-bee-blog/styles-615b4a9959d98b442aa7.js>; rel=preload; as=script
   Link: </little-bee-blog/commons-a17142a90373c74c2b04.js>; rel=preload; as=script
