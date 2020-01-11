@@ -23,6 +23,12 @@ const onCreateNode = ({ node, actions, getNode }) => {
       });
     }
 
+    createNodeField({
+      node,
+      name: 'date',
+      value: `${getNode(node.parent).name}`.split(/---/)[0]
+    });
+
     if (node.frontmatter.tags) {
       const tagSlugs = node.frontmatter.tags.map((tag) => `/tag/${_.kebabCase(tag)}/`);
       createNodeField({ node, name: 'tagSlugs', value: tagSlugs });
