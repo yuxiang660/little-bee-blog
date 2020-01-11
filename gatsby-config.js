@@ -62,7 +62,7 @@ module.exports = {
             allMarkdownRemark.edges.map((edge) => ({
               ...edge.node.frontmatter,
               description: edge.node.frontmatter.description,
-              date: edge.node.frontmatter.date,
+              date: edge.node.fields.date,
               url: site.siteMetadata.site_url + edge.node.fields.slug,
               guid: site.siteMetadata.site_url + edge.node.fields.slug,
               custom_elements: [{ 'content:encoded': edge.node.html }]
@@ -72,7 +72,7 @@ module.exports = {
               {
                 allMarkdownRemark(
                   limit: 1000,
-                  sort: { order: DESC, fields: [frontmatter___date] },
+                  sort: { order: DESC, fields: [fields___date] },
                   filter: { frontmatter: { template: { eq: "post" }, draft: { ne: true } } }
                 ) {
                   edges {
@@ -80,10 +80,10 @@ module.exports = {
                       html
                       fields {
                         slug
+                        date
                       }
                       frontmatter {
                         title
-                        date
                         template
                         draft
                         description

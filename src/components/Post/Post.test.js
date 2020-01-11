@@ -22,6 +22,7 @@ describe('Post', () => {
       html: '<p>test</p>',
       fields: {
         slug: '/test',
+        date: '2016-09-01',
         categorySlug: '/test-category',
         tagSlugs: [
           '/test_0',
@@ -29,7 +30,6 @@ describe('Post', () => {
         ]
       },
       frontmatter: {
-        date: '2016-09-01',
         tags: [
           'test_0',
           'test_1'

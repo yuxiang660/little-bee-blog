@@ -26,7 +26,7 @@ const onCreateNode = ({ node, actions, getNode }) => {
     createNodeField({
       node,
       name: 'date',
-      value: `${getNode(node.parent).name}`.split(/---/)[0]
+      value: new Date(`${getNode(node.parent).name}`.split(/---/)[0] + 'T00:00:00.000Z')
     });
 
     if (node.frontmatter.tags) {
