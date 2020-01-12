@@ -27,7 +27,7 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-54967a01b9b648f9751a.js"
+    "url": "webpack-runtime-a53202470b740b8c924b.js"
   },
   {
     "url": "styles.08a65b48b84d06820528.css"
@@ -39,17 +39,17 @@ self.__precacheManifest = [
     "url": "commons-a17142a90373c74c2b04.js"
   },
   {
-    "url": "netlify-identity-widget-ade4db83c70a1991ad07.js"
+    "url": "netlify-identity-widget-d7563514f77646ee8bbd.js"
   },
   {
-    "url": "app-0ce2b0bbd2b9b4655d62.js"
+    "url": "app-45aa1f42b113a45c9562.js"
   },
   {
     "url": "component---node-modules-gatsby-plugin-offline-app-shell-js-5a6b888a779cb927bc22.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "469fb8169cb76b09fec32cb1240ecd9e"
+    "revision": "6c7f0f88128ffdd0135831beff9e550d"
   },
   {
     "url": "page-data/offline-plugin-app-shell-fallback/page-data.json",
@@ -154,7 +154,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/little-bee-blog/app-0ce2b0bbd2b9b4655d62.js`))) {
+  if (!resources || !(await caches.match(`/little-bee-blog/app-45aa1f42b113a45c9562.js`))) {
     return await fetch(event.request)
   }
 
