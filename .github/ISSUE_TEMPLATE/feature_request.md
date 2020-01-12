@@ -1,20 +1,23 @@
----
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
+<!--
+  Please fill out each section below, otherwise, your issue will be closed.
 
----
+  Useful Links:
+  - Gatsby RFCs: https://github.com/gatsbyjs/rfcs
+  - How to Contribute: https://www.gatsbyjs.org/contributing/how-to-contribute/
+  - How to File an Issue: https://www.gatsbyjs.org/contributing/how-to-file-an-issue/
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+  Before opening a new issue, please search existing issues:  https://github.com/yuxiang660/little-bee-blog/issues
+-->
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+## Why?
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+Brief why we need the feature.
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+## What?
+
+Brief what the feature looks like.
+If the proposal involves a new or changed API, include a basic code example.
+
+## How?
+
+Brief how to implement the feature if you hava any idea.
