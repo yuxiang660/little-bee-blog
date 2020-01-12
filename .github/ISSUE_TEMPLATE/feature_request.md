@@ -1,3 +1,12 @@
+---
+name: Feature request
+about: Suggest an idea for this project
+title: ''
+labels: feature
+assignees: ''
+
+---
+
 <!--
   Please fill out each section below, otherwise, your issue will be closed.
 
